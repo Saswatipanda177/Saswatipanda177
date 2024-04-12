@@ -9,7 +9,7 @@
 
 
 - 💬I'm interested in **Data Analytics, Web development & Cloud Computing**
-- 
+  
 - 🔭 I’m currently working on **A Group Chatting Application**
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
