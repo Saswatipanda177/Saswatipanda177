@@ -7,11 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatipanda177&label=Profile%20views&color=0e75b6&style=flat" alt="saswatipanda177" /> </p>
 
+
+- 💬I'm interested in **Data Analytics, Web development & Cloud Computing**
+- 
 - 🔭 I’m currently working on **A Group Chatting Application**
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
-
-- 💬I'm interested in **Data Analytics, Web development & Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saswatipanda177](https://github.com/Saswatipanda177)
 
