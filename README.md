@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
-- 💬I'm interested in **Data Analytics & Web development**
+- 💬I'm interested in **Data Analytics, Web development & Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saswatipanda177](https://github.com/Saswatipanda177)
 
