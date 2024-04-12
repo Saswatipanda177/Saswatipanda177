@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saswati Panda</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/416848d49d99cc6a59f6ef9f9a15ceb3f3611300cb1882b3d7ed15a51fe3965a/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatipanda177&label=Profile%20views&color=0e75b6&style=flat" alt="saswatipanda177" /> </p>
