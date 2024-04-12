@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Saswati Panda</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
@@ -5,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatipanda177&label=Profile%20views&color=0e75b6&style=flat" alt="saswatipanda177" /> </p>
 
-- 🔭 I’m currently working on **Group Chatting Application,a java full stack project**
+- 🔭 I’m currently working on **A Group Chatting Application**
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatipanda177&show_icons=true&locale=en" alt="saswatipanda177" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatipanda177&" alt="saswatipanda177" /></p>
+
